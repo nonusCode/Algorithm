@@ -37,3 +37,14 @@
 | [2007. 패턴 마디의 길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq&categoryId=AV5P1kNKAl8DFAUq&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D2/2007.패턴마디의길이.py) |                                                              |                                                              |                                                              |                                                              |
 
 </details>
+
+* [D3](https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=3&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+<details open> <summary>접기/펼치기</summary>
+
+|                             문제                             |                             코드                             |                             문제                             |                             코드                             |                             문제                             |                             코드                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [1206. View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D3/1206.View.py) | [1208. Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh&categoryId=AV139KOaABgCFAYh&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D3/1208.Flatten.py) | [1209. Sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D3/1209.Sum.py) |
+| [1213. String](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi&categoryId=AV14P0c6AAUCFAYi&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D3/1213.String.py) | [1215. 회문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi&categoryId=AV14QpAaAAwCFAYi&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D3/1215.회문1.py) | [1216. 회문2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi&categoryId=AV14Rq5aABUCFAYi&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D3/1216.회문2.py) |
+
+</details>

@@ -64,6 +64,16 @@
 
 </details>
 
+* [D4](https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=4&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+<details open> <summary>접기/펼치기</summary>
+
+|                             문제                             |                             코드                             | 문제 | 코드 | 문제 | 코드 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: | :--: | :--: |
+| [1226. 미로1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD&categoryId=AV14vXUqAGMCFAYD&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D4/1226.미로1.py) |      |      |      |      |
+
+</details>
+
 
 
 ### Programmers

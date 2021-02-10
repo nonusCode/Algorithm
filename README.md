@@ -75,6 +75,16 @@
 
 </details>
 
+* [D5](https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=5&contestProbId=&categoryId=&categoryType=&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+<details open> <summary>접기/펼치기</summary>
+
+|                             문제                             |                             코드                             | 문제 | 코드 | 문제 | 코드 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: | :--: | :--: |
+| [1256. K번째 접미어](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18GHd6IskCFAZN&categoryId=AV18GHd6IskCFAZN&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D5/1256.K번째접미어.py) |      |      |      |      |
+
+</details>
+
 
 
 ### Programmers

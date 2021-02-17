@@ -2,9 +2,15 @@
 # 시간 복잡도 : O(n^2)
 
 def bubbleSort(arr):
+    # 1
     for i in range(len(arr)-1):
         for j in range(len(arr)-1-i):
             if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
+    # 2
+    # for i in range(len(arr)-1, 0, -1):
+    #     for j in range(0, i):
+    #         if arr[j] > arr[j+1]:
+    #             arr[j], arr[j+1] = arr[j+1], arr[j]
     
     return arr

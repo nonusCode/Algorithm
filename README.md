@@ -70,9 +70,9 @@
 
 <details open> <summary>접기/펼치기</summary>
 
-|                             문제                             |                             코드                             |                             문제                             |                             코드                             | 문제 | 코드 |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: |
-| [1226. 미로1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD&categoryId=AV14vXUqAGMCFAYD&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D4/1226.미로1.py) | [1227. 미로2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D4/1227.미로2.py) |      |      |
+|                             문제                             |                             코드                             |                             문제                             |                             코드                             |                             문제                             |                             코드                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [1210. Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D4/1210.Ladder1.py) | [1226. 미로1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD&categoryId=AV14vXUqAGMCFAYD&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D4/1226.미로1.py) | [1227. 미로2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D4/1227.미로2.py) |
 
 </details>
 

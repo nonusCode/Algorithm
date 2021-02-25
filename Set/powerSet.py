@@ -4,7 +4,7 @@ def powerSet(idx):
     if idx == N:
         for i in range(N):
             if check[i]:
-                print(arr[i],end=' ')
+                print(arr[i], end=' ')
         print()
         return
     check[idx] = 1

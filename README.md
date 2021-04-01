@@ -83,9 +83,9 @@
 
 <details open> <summary>접기/펼치기</summary>
 
-|                             문제                             |                             코드                             |                             문제                             |                             코드                             | 문제 | 코드 |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: |
-| [1256. K번째 접미어](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18GHd6IskCFAZN&categoryId=AV18GHd6IskCFAZN&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D5/1256.K번째접미어.py) | [1265. 달란트2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18R8FKIvoCFAZN&categoryId=AV18R8FKIvoCFAZN&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D5/1265.달란트2.py) |      |      |
+|                             문제                             |                             코드                             |                             문제                             |                             코드                             |                             문제                             |                             코드                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [1256. K번째 접미어](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18GHd6IskCFAZN&categoryId=AV18GHd6IskCFAZN&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D5/1256.K번째접미어.py) | [1259. 금속막대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN&categoryId=AV18NaZqIt8CFAZN&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D5/1259.금속막대.py) | [1265. 달란트2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18R8FKIvoCFAZN&categoryId=AV18R8FKIvoCFAZN&categoryType=CODE) | [Python](https://github.com/nonusCode/Algorithm/blob/master/SWEA/D5/1265.달란트2.py) |
 
 </details>
 

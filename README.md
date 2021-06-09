@@ -116,3 +116,13 @@
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) | [Python](https://github.com/nonusCode/Algorithm/blob/master/Programmers/Level1/최대공약수와최소공배수.py) | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128?language=python3) | [Python](https://github.com/nonusCode/Algorithm/blob/master/Programmers/Level1/내적.py) | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982?language=python3) | [Python](https://github.com/nonusCode/Algorithm/blob/master/Programmers/Level1/예산.py) |
 
 </details>
+
+* [Level2](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+
+<details open> <summary>접기/펼치기</summary>
+
+|                             문제                             |                             코드                             | 문제 | 코드 | 문제 | 코드 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: | :--: | :--: |
+| [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973?language=python3) | [Python](https://github.com/nonusCode/Algorithm/blob/master/Programmers/Level2/짝지어제거하기.py) |      |      |      |      |
+
+</details>
